@@ -1,0 +1,16 @@
+[
+  {
+    "title": "DevOps Projects",
+    "imageSrc": "projects/devops.png",
+    "description": "These projects were made to learn the latest tech stacks by deploying applications to showcase the integration of various tools and technologies to ensure efficient and scalable deployments.",
+    "skills": ["Linux", "Git", "Jenkins", "Ansible", "Docker", "K8s", "Prometheus", "Grafana", "Terraform"],
+    "source": "https://github.com/zmirack/devops"
+  },
+  {
+    "title": "MLOps Project",
+    "imageSrc": "projects/mlops.png",
+    "description": "The project were made to learn latest tech stacks by deploying ML models to showcases the integration of various tools and technologies, reflecting my ongoing journey in mastering MLOps.",
+    "skills": ["Git", "DVC", "Jenkins", "MLflow", "Docker", "Model Drift", "Prometheus", "Grafana", "Whylogs"],
+    "source": "https://github.com/zmirack/mlops"
+  }
+]

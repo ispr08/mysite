@@ -1,0 +1,44 @@
+@import "../../vars.css";
+
+.container {
+  margin-top: 120px;
+  color: var(--color-text);
+  margin-left: 10%;
+  margin-right: 10%;
+  overflow-x: auto; /* Add this to enable horizontal scrolling */
+}
+
+.title {
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+}
+
+.projects {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  width: 100%;
+  flex-grow: 1; /* Add this to make the projects container take up the available space */
+}
+
+/* Add this to style the scrollbar */
+.container::-webkit-scrollbar {
+  height: 10px;
+  width: 10px;
+}
+
+.container::-webkit-scrollbar-thumb {
+  background-color: var(--color-primary);
+  border-radius: 10px;
+}
+
+.container::-webkit-scrollbar-track {
+  background-color: var(--color-background);
+  border-radius: 10px;
+}

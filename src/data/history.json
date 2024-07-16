@@ -1,0 +1,18 @@
+[
+  {
+    "role": "DevOps Intern",
+    "organisation": "Pearl Thoughts",
+    "startDate": "Jul, 2024",
+    "endDate": "present",
+    "experiences": ["Impliment CI/CD pipelines, significantly reducing deployment time"],
+    "imageSrc": "history/pt.png"
+  },
+  {
+    "role": "Cloud Engineer Intern",
+    "organisation": "BrightGeeks",
+    "startDate": "Dec, 2023",
+    "endDate": "Mar, 2024",
+    "experiences": ["Optimized EC2 instance utilization, saving 30% costs"],
+    "imageSrc": "history/bg.png"
+  }
+]

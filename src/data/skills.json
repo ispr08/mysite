@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Cloud",
+    "imageSrc": "skills/cloud.png"
+  },
+  {
+    "title": "Linux",
+    "imageSrc": "skills/linux.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "Jenkins",
+    "imageSrc": "skills/jenkins.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
+  },
+  {
+    "title": "k8s",
+    "imageSrc": "skills/k8s.png"
+  },
+  {
+    "title": "Terraform",
+    "imageSrc": "skills/terra.png"
+  },
+  {
+    "title": "Prometheus",
+    "imageSrc": "skills/prom.png"
+  },
+  {
+    "title": "Grafana",
+    "imageSrc": "skills/graf.png"
+  },
+  {
+    "title": "PyScript",
+    "imageSrc": "skills/py.png"
+  },
+  {
+    "title": "Ansible",
+    "imageSrc": "skills/ansi.png"
+  },
+  {
+    "title": "Argo CD",
+    "imageSrc": "skills/argos.png"
+  }
+]
