@@ -2,7 +2,7 @@
   {
     "role": "DevOps Intern",
     "organisation": "Pearl Thoughts",
-    "startDate": "Dec, 2024",
+    "startDate": "Dec, 2023",
     "endDate": "Mar, 2024",
     "experiences": ["Impliment CI/CD pipelines, significantly reducing deployment time"],
     "imageSrc": "history/pt.png"
@@ -10,8 +10,8 @@
   {
     "role": "Cloud Engineer Intern",
     "organisation": "BrightGeeks",
-    "startDate": "Dec, 2023",
-    "endDate": "Mar, 2024",
+    "startDate": "Aug, 2023",
+    "endDate": "Oct, 2023",
     "experiences": ["Optimized EC2 instance utilization, saving 30% costs"],
     "imageSrc": "history/bg.png"
   }
