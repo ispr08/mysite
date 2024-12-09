@@ -2,17 +2,23 @@
   {
     "role": "DevOps Intern",
     "organisation": "Pearl Thoughts",
-    "startDate": "Dec, 2023",
-    "endDate": "Mar, 2024",
-    "experiences": ["Impliment CI/CD pipelines, significantly reducing deployment time"],
+    "startDate": "Jul, 2024",
+    "endDate": "present",
+    "experiences": ["Impliment CI/CD pipelines, significantly reducing deployment time.",
+  "Automated infrastructure provisioning using IaC tools, enhancing scalability and consistency.",
+"Monitored and improved system performance using tools like Prometheus and Grafana.",
+"Managed containerized applications with Docker and orchestrated workloads using Kubernetes."],
     "imageSrc": "history/pt.png"
   },
   {
     "role": "Cloud Engineer Intern",
     "organisation": "BrightGeeks",
-    "startDate": "Aug, 2023",
-    "endDate": "Oct, 2023",
-    "experiences": ["Optimized EC2 instance utilization, saving 30% costs"],
+    "startDate": "Dec, 2023",
+    "endDate": "Mar, 2024",
+    "experiences": ["Optimized EC2 instance utilization, saving 30% costs.",
+  "Implemented scalable S3 storage solutions, improving data accessibility and reducing latency.",
+"Configured IAM policies to enhance security and ensure role-based access control for cloud resources.",
+"Automated routine tasks using AWS Lambda, minimizing manual intervention and increasing operational efficiency."],
     "imageSrc": "history/bg.png"
   }
 ]
