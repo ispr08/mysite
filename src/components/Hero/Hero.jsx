@@ -12,7 +12,7 @@ export const Hero = () => {
         I am a passionate DevOps Engineer with a strong interest in continuous integration and cloud automation.
         Reach out to connect and know more!
         </p>
-        <a href="mailto:xmirack@gmail.com" className={styles.contactBtn}>
+        <a href="mailto:ispr54@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
